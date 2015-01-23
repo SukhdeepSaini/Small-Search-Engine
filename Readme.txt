@@ -1,3 +1,14 @@
+Search Engine:
+
+======================================================================================
+Working:
+======================================================================================
+Read in the tokenized and stemmed document collection provided in the file tccorpus.txt
+Build a simple inverted indexer that reads the corpus and writes the index.
+Implemented the BM25 ranking algorithm to provide a ranked list of documents for a file with one or more queries.
+Output top 100 document IDs and their BM25 scores for each test query.
+
+======================================================================================
 Please see below the Instructions to compile and run ======================================================================================
 
 Source Files:Indexer.javaBM25Implementation.javaInput files:
